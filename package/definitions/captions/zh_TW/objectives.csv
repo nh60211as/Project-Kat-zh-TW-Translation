@@ -1,0 +1,39 @@
+,en,zh_TW
+objectives.prologue.explore_garden.name,Explore your surroundings,探索週遭
+objectives.prologue.explore_garden.description,I woke up in a strange garden. Where am I?,我在一座古怪的花園中醒來。我在哪裡？
+objectives.prologue.refresh_memory.name,Check your notes to refresh your memory,檢查妳的筆記來確認一下記憶
+objectives.prologue.refresh_memory.description,I should go over my ritual notes to make sure I don't forget anything.,我應該先讀過一次我的儀式筆記以確保我沒忘記任何東西。
+objectives.prologue.items.get_chalk.name,Chalk,粉筆
+objectives.prologue.items.get_chalk.description,This is a school - surely I can find chalk here.,這裡是學校 - 一定找得到粉筆吧。
+objectives.prologue.items.get_candles.name,Candles,蠟燭
+objectives.prologue.items.get_candles.description,I brought some from home.,我從家裡帶了一些來。
+objectives.prologue.items.get_hair_tuft.name,A tuft of hair,一束頭髮
+objectives.prologue.items.get_hair_tuft.description,It has to be human hair.,必須是人的頭髮。
+objectives.prologue.items.find_runes.name,A rune,符石
+objectives.prologue.items.find_runes.description,"My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there.",我朋友說超自然研究社有一些符石在社辦裡。我需要一顆用來舉行儀式，所以我應該去那裡找找。
+objectives.prologue.items.name,Gather items for the ritual,收集儀式用品
+objectives.prologue.items.description,I should gather everything I'll need for the ritual first.,我應該先收集所有儀式所需物品。
+objectives.prologue.open_box.name,Find a way to open the box with the runes,想辦法打開裝著符石的箱子
+objectives.prologue.open_box.description,"I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick.",我在超自然研究社找到了裝著符石的箱子，但是它被膠帶封起來了- 任何尖銳的物品都可以。
+objectives.prologue.sort_desks.name,Sort the desks in all three classrooms,在一共三間教室中排好桌子
+objectives.prologue.sort_desks.description,"According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms.",依據儀式的說明，我需要把一共三間教室的桌子移開。
+objectives.prologue.shut_curtains.name,Shut the curtains in all three classrooms,在一共三間教室中關上窗簾
+objectives.prologue.shut_curtains.description,"According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut.",依據儀式的說明，我需要讓一共三間教室越暗越好，所以窗簾必須關上。
+objectives.prologue.enter_theater_club.name,Find a way into the Theater Club room,想辦法進入話劇社辦
+objectives.prologue.enter_theater_club.description,"I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in.",我相當確定我能在話劇社辦找到一些窗簾，但是它被鎖起來了。我需要想辦法進去。
+objectives.prologue.retrieve_notebook.name,Retrieve the girl's notebook,取回女孩的筆記本。
+objectives.prologue.retrieve_notebook.description,"One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it.",其中一個女孩把她的筆記本忘在 3-C 教室了。如果我找到它，她應該會把話劇社辦鑰匙借給我。她說不要看裡面。
+objectives.prologue.draw_chalk.name,Draw a path with chalk in all 3 classrooms,在一共三間教室中用粉筆畫出一條路徑
+objectives.prologue.draw_chalk.description,I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it.,我需要用粉筆畫出連接三間教室的路徑。我畫的圖應該能幫助我確認形狀。
+objectives.prologue.set_candles.name,Set and light candles in the middle room,在中間的教室放置並點亮蠟燭
+objectives.prologue.set_candles.description,I need to set and light the candles on top of all the desks in classroom 3-B.,我需要在 3-B 教室所有的桌子上放置並點亮蠟燭。
+objectives.prologue.start_ritual.name,Burn the hair tuft on a candle,在其中一個蠟燭上燒掉髮束。
+objectives.prologue.start_ritual.description,Preparations are complete. Let's burn the hair tuft on a candle to start the ritual.,準備完成。在其中一個蠟燭上燒掉髮數來開始儀式吧。
+objectives.prologue.explore_world.name,Explore the strange place,探索這個奇怪的地方
+objectives.prologue.explore_world.description,"I arrived at a mysterious location, let's take a look around!",我抵達了一個神祕的地方，來四處看看吧！
+objectives.prologue.escape_world.name,Escape this cursed place,逃離這受詛咒的地方
+objectives.prologue.escape_world.description,This isn't fun anymore. I need to find a way back!,不好玩了。我需要想辦法回去！
+objectives.prologue.ending_k3.name,Go home,回家
+objectives.prologue.ending_k3.description,I'm going home. Maybe I'll finish the ritual some other time.,我要回家了。也許我之後有機會完成儀式。
+objectives.prologue.ending_k3_pt2.name,Test your theory,測試妳的理論
+objectives.prologue.ending_k3_pt2.description,"If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?",如果我真的被困在迴圈中，那麼這個 X 記號還會在我上下樓後出現。但是這不可能…吧？

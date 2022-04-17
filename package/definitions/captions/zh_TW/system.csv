@@ -1,0 +1,159 @@
+,en,zh_TW
+system.actions.action,Action/OK,行動/確認
+system.actions.cancel,Cancel,取消
+system.actions.down,Down,下
+system.actions.left,Left,左
+system.actions.menu,Menu,選單
+system.actions.right,Right,右
+system.actions.run,Run,奔跑
+system.actions.special,Special,特別
+system.actions.up,Up,上
+system.common.apply,Apply,套用
+system.common.axis,Axis,軸心
+system.common.back,Back,返回
+system.common.button,Button,按鈕
+system.common.cancel,Cancel,取消
+system.common.controller,Controller,控制器
+system.common.done,Done,完成
+system.common.key,Key,按鍵
+system.common.keyboard,Keyboard,鍵盤
+system.common.loading,Loading...,載入中…
+system.common.next,Next,下一個
+system.common.no,No,否
+system.common.off,Off,關閉
+system.common.on,On,開啟
+system.common.yes,Yes,是
+system.credits.artdesign,Art,美術
+system.credits.codescripting,Code,程式碼
+system.credits.fonts,Fonts,字體
+system.credits.godotengine,Godot Engine,Godot Engine
+system.credits.logo,Paper Lily Logo,Paper Lily Logo
+system.credits.madeby,Created By,創作者
+system.credits.madewith,Made Using,使用引擎
+system.credits.music,Music,音樂
+system.credits.sfx,SFX,效果音
+system.credits.story,Designed By,設計者
+system.credits.thanksforplaying,Thank You for Playing!,感謝你的遊玩！
+system.credits.ui,UI Design,使用者介面設計
+system.endings.k1,True End K1 - Curiosity Killed the Kat,真結局 K1 - 好奇心殺死了貓 (Curiosity Killed the Kat)
+system.locations.prologue.event.ending,Paper Lily: Chapter 1,Paper Lily: 第一章
+system.locations.prologue.event.nightmare,Prologue: Into the Door,序章: 進入門口
+system.locations.prologue.hod,Prologue: Hallway of Doors,序章: 萬門之廳
+system.locations.prologue.school,Prologue: School,序章: 學校
+system.locations.prologue.school.occult,Prologue: Occult Club,序章: 超自然研究社
+system.menu.continue,Continue,繼續
+system.menu.credits,Credits,製作人員
+system.menu.debugroom,Debug Room,除錯室
+system.menu.extras,Extras,額外內容
+system.menu.gallery,Gallery,畫廊
+system.menu.info,{0} Select {1} Back,{0} 選擇 {1} 返回
+system.menu.inventory,Inventory,物品欄
+system.menu.load,Load,載入
+system.menu.load.game,Load Game,載入遊戲
+system.menu.log,Log,對話紀錄
+system.menu.mainmenu,Main Menu,主選單
+system.menu.newgame,New Game,新遊戲
+system.menu.objectives,Objectives,目標
+system.menu.objectives.empty,(There are no objectives),(目前沒有目標)
+system.menu.paused,Game Paused!,遊戲暫停！
+system.menu.quit,Quit,退出
+system.menu.quit.areyousure,Are you sure you want to quit? Unsaved progress will be lost.,確定退出遊戲？未儲存的進度將會遺失。
+system.menu.quit.debugroom,Go to Debug Room,前往除錯室
+system.menu.quit.desktop,Quit to Desktop,退出至桌面
+system.menu.quit.mainmenu,Quit to Title Screen,退出至標題畫面
+system.menu.save,Save,儲存
+system.menu.save.corrupted,CORRUPTED,已損毀
+system.menu.save.game,Save Game,儲存遊戲
+system.menu.save.location.unknown,Unknown Location,未知地點
+system.menu.save.overwrite.areyousure,Are you sure you want to overwrite this save file?,確定覆蓋存檔？
+system.menu.save.slot,SLOT {0},欄位 {0}
+system.menu.save.slot.empty,<EMPTY>,<空白>
+system.menu.settings,Settings,設定
+system.menu.startup.settings.info,{0} Change {1} Confirm,{0} 更改 {1} 確認
+system.menu.status,Status,狀態
+system.menu.website,Website,網站
+system.menu.website.itchio,Itch.io Page,Itch.io 頁面
+system.minigames.boxpuzzle.info,{0} Give Up {1} Reset,{0} 放棄 {1} 重置
+system.objectives.done,(Done),(完成)
+system.objectives.updated,Objectives Updated!,目標更新！
+system.screen.notefromdevs,"Note from the devs:
+We really appreciate you taking the time to play our little game! It means the world to us! 
+
+What you have played is the prologue of Paper Lily, a larger project we are currently working on. We got amazing feedback for Project Kat so far - and we hope you'll look forward to Chapter 1, coming soon!
+
+If you liked what you played, it would help us a lot if you could leave a review!
+
+Thank you so much!!!","開發者的訊息:
+我們真的很感謝你抽空來玩我們的小遊戲！這對我們來說很重要！
+
+你遊玩的是 Paper Lily 的序章，我們正在開發的大型專案。我們目前在 Project Kat 中得到了很棒的回饋 - 我們希望你期待第一章，即將推出！
+
+如果你喜歡這款遊戲，留下評論對我們會有很大的幫助！
+
+非常感謝！！！"
+system.screen.projectkat.warning,"WARNING
+
+This game may contain flashing lights and effects,
+as well as depictions of violence and strong language.","警告
+
+這款遊戲包含了閃爍的燈光和效果，
+以及對暴力的描寫和冒犯性的文字。"
+system.screen.specialthanks,Special Thanks,特別感謝
+system.screen.specialthanks.comment,Everyone who left a comment or rating,所有留下留言或評分的人
+system.screen.specialthanks.family,Our families and friends,我們的家人和朋友
+system.screen.specialthanks.survey,Everyone who completed the survey,所有完成問卷的人
+system.screen.specialthanks.video,Everyone who made a video or stream,所有製作了影片或直播的人
+system.screen.specialthanks.you,And You!,以及你！
+system.settings.advanced,Advanced Settings,進階設定
+system.settings.audio,Sound Settings,聲音設定
+system.settings.batterysaver,Battery Saver Mode,省電模式
+system.settings.brightness,Brightness,亮度
+system.settings.contrast,Contrast,對比
+system.settings.current,Current: {0},目前: {0}
+system.settings.fpslimit,FPS Limit,每秒禎數限制
+system.settings.fpsunlocked,Unlocked,解鎖
+system.settings.fullscreen,Full Screen,全螢幕
+system.settings.game,Game Settings,遊戲設定
+system.settings.game.language,Language,語言
+system.settings.game.language.select,Select Language,選擇語言
+system.settings.game.skipenabled,Skip Dialogue,跳過對話
+system.settings.gamma,Gamma,伽瑪校正
+system.settings.hidecursor,Hide Mouse Cursor,隱藏滑鼠游標
+system.settings.input,Control Settings,控制設定
+system.settings.input.autoswitch,Auto Switch,自動切換
+system.settings.input.pressbutton,Press a button to assign to {0}...,按按鈕以配置到 {0}…
+system.settings.input.presskey,Press a key to assign to {0}...,按按鍵以配置到 {0}…
+system.settings.input.profile,Profile,設定檔
+system.settings.input.profile.azerty,Azerty Classic,Azerty Classic
+system.settings.input.profile.azerty-wasd,Azerty WASD,Azerty WASD
+system.settings.input.profile.caption,{0}: {1},{0}: {1}
+system.settings.input.profile.classic,Classic,經典
+system.settings.input.profile.custom,Custom,自訂
+system.settings.input.profile.ds4,DualShock 4,DualShock 4
+system.settings.input.profile.ds4jp,DualShock 4 (JP),DualShock 4 (JP)
+system.settings.input.profile.dvorak,Dvorak Classic,Dvorak Classic
+system.settings.input.profile.dvorak-wasd,Dvorak WASD,Dvorak WASD
+system.settings.input.profile.genericpad,Generic,通用
+system.settings.input.profile.switchpro,Switch Pro,Switch Pro
+system.settings.input.profile.wasd,WASD,WASD
+system.settings.input.profile.xbox,Xbox,Xbox
+system.settings.notrecommended,Not recommended,不建議
+system.settings.objectivenotifications,Objective Notifications,目標提示
+system.settings.renderer,Renderer,渲染器
+system.settings.renderer.gles2,OpenGL ES 2.x,OpenGL ES 2.x
+system.settings.renderer.gles3,OpenGL ES 3.x,OpenGL ES 3.x
+system.settings.resolution,Resolution,解析度
+system.settings.restartrequired,Restart required,需要重啟
+system.settings.revertall,Revert Settings to Default,重置設定置預設值
+system.settings.saturation,Saturation,飽和度
+system.settings.video,Screen Settings,螢幕設定
+system.settings.volume.bgm,BGM Volume,背景音樂音量
+system.settings.volume.master,General Volume,總體音量
+system.settings.volume.mute,Mute All Audio,靜音
+system.settings.volume.sfx,SFX Volume,音效音量
+system.settings.volume.system,Interface Volume,介面音量
+system.settings.volume.text,Text Scrolling Volume,文字滾動音量
+system.settings.vsync,V-Sync,垂直同步
+system.settings.windowsize,Window Size,視窗大小
+system.storyplayer.item.get,Obtained {0} {1},取得 {0} {1}
+system.tutorials.info,{0} Okay,{0} 確定

@@ -1,0 +1,21 @@
+,en,zh_TW
+tutorials.boxpuzzle.name,Minigame: Box Puzzle,小遊戲: 箱子謎題
+tutorials.boxpuzzle.text,Push the desks into the green zones to complete the puzzle,把桌子推到綠色區域以完成謎題
+tutorials.interaction.name,Interacting,互動
+tutorials.interaction.text,Press {0} to interact with the environment,點擊 {0} 以與環境互動
+tutorials.itemuse.name,Using Items,使用物品
+tutorials.itemuse.text,"To use an item, stand close and select the item from the menu ({0})",要使用物品的話，靠近並從選單選擇物品({0})
+tutorials.menu.name,Opening the Menu,開啟選單
+tutorials.menu.text,Press {0} to open the menu and see your items,點擊 {0}以開啟選單並瀏覽你的物品
+tutorials.movement.name,Moving,移動
+tutorials.movement.text,Use {0}{1}{2}{3} to move,使用 {0}{1}{2}{3} 移動
+tutorials.pickup.name,Picking Up Items,撿起物品
+tutorials.pickup.text,Press {0} to pick up items,點擊 {0} 以撿起物品
+tutorials.running.name,Running,奔跑
+tutorials.running.text,"While moving, hold {0} to run",移動時，按住 {0} 以奔跑
+tutorials.save.name,Saving the Game,儲存遊戲
+tutorials.save.text,"Crows can save your game. Save often, since the future is uncertain",烏鴉可以用來儲存你的遊戲。經常儲存，因為未來充滿不確定性
+tutorials.stairs.name,Climbing Stairs,攀爬樓梯
+tutorials.stairs.text,Hold {0} while moving to climb up the stairs,移動時按住 {0} 以攀爬樓梯
+tutorials.timingbar.name,Minigame: Timing Bar,小遊戲: 時機反應
+tutorials.timingbar.text,Press {0} when the indicator matches the green zone,當游標移動到綠色區域時點擊 {0}

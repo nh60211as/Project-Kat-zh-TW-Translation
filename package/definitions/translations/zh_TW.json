@@ -1,0 +1,14 @@
+{
+	"locale": "zh_TW",
+	"name": "繁體中文",
+	"author": "nh60211as",
+	"resourceRemaps": {
+		"res://resources/font/default.tres": "res://translation-resources/zh_TW/default.tres",
+		"res://resources/font/default_large.tres": "res://translation-resources/zh_TW/default_large.tres",
+		"res://resources/font/default_small.tres": "res://translation-resources/zh_TW/default_small.tres",
+		"res://resources/font/default_title.tres": "res://translation-resources/zh_TW/default_title.tres",
+		"res://resources/font/creepy.tres": "res://translation-resources/zh_TW/creepy.tres",
+		"res://assets/img/cg/prologue/instructions1.png": "res://translation-resources/zh_TW/instructions1.png",
+		"res://assets/img/cg/prologue/instructions2.png": "res://translation-resources/zh_TW/instructions2.png"
+	}
+}
