@@ -1,7 +1,7 @@
 # Project Kat - Paper Lily Prologue 繁體中文翻譯
 
 ## 遊戲網址
-https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/
+https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/  
 https://leef6010.itch.io/projectkat
 
 ## 安裝方式
@@ -14,8 +14,8 @@ https://leef6010.itch.io/projectkat
 ## 使用資源
 
 * 遊戲內字體：  
-[Noto Sans Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+TC)  
-修改後的[怨霊](http://www.ankokukoubou.com/font/onryou.htm) (由於此字體被禁止重新發布，因此本 repo 不包含此字體檔案、或是為此翻譯包修改後的字體檔案)
+1. [Noto Sans Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+TC)  
+2. 修改後的[怨霊](http://www.ankokukoubou.com/font/onryou.htm) (由於此字體被禁止重新發布，因此本 repo 不包含此字體檔案、或是為此翻譯包修改後的字體檔案)
 
 * 遊戲圖片使用字體：
 [清松手寫體5p](https://github.com/jasonhandwriting/JasonHandwriting)
