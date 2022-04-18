@@ -25,3 +25,13 @@ https://leef6010.itch.io/projectkat
 請參考： https://docs.google.com/document/d/1EvIIyEhHKRcq4UExLn-JIEYvh65HKF7CawheY4srLog/edit
 
 注意事項： 此 repo 所需的"怨霊"字體需自行下載，而且此字體不包含"妳"這個文字，這會導致遊戲內部分文字缺漏。若要自行產生可正常運作的翻譯包請自行從該字體中加入所需缺漏文字或是使用沒有缺字的字體。
+
+## 遊戲擷圖
+
+![開始畫面](./img/1.jpg "開始畫面")
+![對話1](./img/2.jpg "對話1")
+![對話2](./img/3.jpg "對話2")
+![小遊戲](./img/4.jpg "小遊戲")
+![對話3](./img/5.jpg "對話3")
+![物品欄](./img/6.jpg "物品欄")
+![目標](./img/7.jpg "目標")
