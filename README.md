@@ -4,6 +4,12 @@
 https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/  
 https://leef6010.itch.io/projectkat
 
+## 支援版本
+
+本翻譯包只支援 v1.3.0，  
+最新的版本(v1.4.0)請直接下載並使用官方的"Translation Pack"，  
+內含的繁體中文翻譯與此 repo 相同。
+
 ## 安裝方式
 
 1. 到 https://github.com/nh60211as/Project-Kat-zh-TW-Translation/releases 下載最新翻譯包
